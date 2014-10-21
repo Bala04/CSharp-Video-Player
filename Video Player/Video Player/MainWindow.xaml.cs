@@ -203,11 +203,11 @@ namespace Video_Player
                     ie.Width = 450;
                     ie.Height = 500;
                     ie.Visible = true;
-                    ie.Navigate("www.storyboardlabs.net/dict/getmeaning.php?word=" + word);
+                    ie.Navigate("www.asthra14.com/dict/getmeaning.php?word=" + word);
                 }
                 else
                 {
-                    ie.Navigate("www.storyboardlabs.net/dict/getmeaning.php?word=" + word);
+                    ie.Navigate("www.asthra14.com/dict/getmeaning.php?word=" + word);
                 }
                 UIMediaElement.Pause();
                 playing = false;
@@ -223,7 +223,7 @@ namespace Video_Player
                 ie.Width = 450;
                 ie.Height = 500;
                 ie.Visible = true;
-                ie.Navigate("www.storyboardlabs.net/dict/getmeaning.php?word=" + word);
+                ie.Navigate("www.asthra14.com/dict/getmeaning.php?word=" + word);
             }
         }
 
