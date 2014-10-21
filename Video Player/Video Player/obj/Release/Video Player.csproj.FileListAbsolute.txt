@@ -1,0 +1,3 @@
+C:\Users\Bala\documents\visual studio 2013\Projects\Video Player\Video Player\bin\Release\Video Player.exe.config
+C:\Users\Bala\documents\visual studio 2013\Projects\Video Player\Video Player\obj\Release\Interop.SHDocVw.dll
+C:\Users\Bala\documents\visual studio 2013\Projects\Video Player\Video Player\obj\Release\Video Player.csproj.ResolveComReference.cache
