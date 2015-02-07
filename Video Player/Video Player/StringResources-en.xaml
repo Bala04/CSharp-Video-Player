@@ -39,16 +39,6 @@ If the word has more than one meaning, Medio will give you the various definitio
 You no longer have to pause your video and switch to another program to check the meaning of a word you do not understand in the subtitle.</system:String>
     <system:String x:Key="aboutfeedback">Leave feedback email to bala@storyboardlabs.net</system:String>
     <system:String x:Key="aboutshortdesc">is a video player where the subtitle conveys a meaning.</system:String>
-    <system:String x:Key="initdefault">Default player</system:String>
-    <system:String x:Key="initdefaultdesc">Doesn't support mkv format</system:String>
-    <system:String x:Key="next">Next</system:String>
     <system:String x:Key="finish">Finish</system:String>
     <system:String x:Key="inithelp">To know the definition of the word, just click on it!</system:String>
-    <system:String x:Key="initvlcradio">Choose this if you have Vlc Media Player (Recommended)</system:String>
-    <system:String x:Key="initvlcdesc">It supports almost all video format</system:String>
-    <system:String x:Key="initvlcpath">Set the Path of Vlc Media Player-32bit.</system:String>
-    <system:String x:Key="initvlcpathselect">Click on "Choose Folder"-> Open Vlc Folder -> Click on "Select Folder"</system:String>
-    <system:String x:Key="initvlcchoosefolder">Choose Folder</system:String>
-    
-
-</ResourceDictionary>
+ </ResourceDictionary>
