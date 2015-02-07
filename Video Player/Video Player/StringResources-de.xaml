@@ -1,0 +1,48 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="file">Datei</system:String>
+    <system:String x:Key="exit">Ausfahrt</system:String>
+    <system:String x:Key="subtitle">Untertitel</system:String>
+    <system:String x:Key="addsubtitle">Untertitel hinzufügen</system:String>
+    <system:String x:Key="removesubtitle">entfernen Untertitel</system:String>
+    <system:String x:Key="openfile">Datei öffnen</system:String>
+    <system:String x:Key="fontsize">Schriftgröße</system:String>
+    <system:String x:Key="size10">10</system:String>
+    <system:String x:Key="size12">12</system:String>
+    <system:String x:Key="size14">14</system:String>
+    <system:String x:Key="size16">16</system:String>
+    <system:String x:Key="size18">18</system:String>
+    <system:String x:Key="size20">20</system:String>
+    <system:String x:Key="size22">22</system:String>
+    <system:String x:Key="size24">24</system:String>
+    <system:String x:Key="size26">26</system:String>
+    <system:String x:Key="size28">28</system:String>
+    <system:String x:Key="video">Video</system:String>
+    <system:String x:Key="videostretch">Strecke</system:String>
+    <system:String x:Key="videofill">füllen</system:String>
+    <system:String x:Key="videouniform">Uniform</system:String>
+    <system:String x:Key="videouniformtofill">Uniform Zum Füllen</system:String>
+    <system:String x:Key="videonone">Keine</system:String>
+    <system:String x:Key="videofullscreen">Vollbild</system:String>
+    <system:String x:Key="help">Hilfe</system:String>
+    <system:String x:Key="helpabout">über</system:String>
+    <system:String x:Key="helpdonate">spenden</system:String>
+    <system:String x:Key="word">Wort:</system:String>
+    <system:String x:Key="search">Suche</system:String>
+    <system:String x:Key="wordwindowtitle">Presse Esc zu schließen und 
+
+spielen</system:String>
+    <system:String x:Key="about">über</system:String>
+    <system:String x:Key="aboutdesc">Die Untertitel sollen die Nachricht in ein Video zu machen klarer, es gibt Zeiten, wenn Sie ein Wort finden können, Sie nicht verstehen.
+Gott sei Dank, Medio-Media-Player wurde entwickelt, um Ihnen die Bedeutungen der helfen solche Worte direkt in die Videos. Der video-Player macht es einfach, die Worte zu 
+verstehen, Sie ohne Unterbrechung sehen, Ihrer Sehvergnügen zum Nachschlagen der Wörter an anderer Stelle. Sie müssen lediglich auf das Wort klicken Sie die gewünschte Weitere 
+Informationen und die Spieler wissen geben Ihnen relevante Informationen. Das Programm wird ein Popup-Fenster mit einer Definition des Wortes angezeigt, die Sie geklickt haben. Wenn 
+das Wort mehr als eine Bedeutung hat, Medio wird Ihnen die unterschiedlichen Definitionen wie Wenn Sie ein Wörterbuch mit, außer, dass Sie Anwendungen wechseln wird nicht.Sie müssen 
+nicht mehr Ihre Video anzuhalten, und wechseln Sie in ein anderes Programm zu überprüfen, 
+die Bedeutung der ein Wort, das Sie nicht, im Untertitel verstehen.</system:String>
+    <system:String x:Key="aboutfeedback">Hinterlassen Sie Feedback e-Mail zu bala@storyboardlabs.net</system:String>
+    <system:String x:Key="aboutshortdesc">is a video player where the subtitle conveys a meaning.</system:String>
+    <system:String x:Key="finish">Fertig stellen</system:String>
+    <system:String x:Key="inithelp">Um die Definition des Wortes zu erfahren, klicken Sie einfach darauf!</system:String>
+</ResourceDictionary>
